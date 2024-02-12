@@ -8,4 +8,4 @@ Lecture 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f24/blob/master/Lecture%202/aml_2_python_basics.ipynb)
 
-Lecture 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f24/blob/master/Lecture%203/aml_3_intro_supervised_learning.ipynb#scrollTo=6EdubQ131fyy)
+Lecture 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f24/blob/master/Lecture%203/aml_3_intro_supervised_learning.ipynb#scrollTo=6EdubQ131fyy)
