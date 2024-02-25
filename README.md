@@ -2,7 +2,7 @@
 
 On this page, you can find course materials such as slides and Jupyter notebooks.
 
-You may open the notebooks for each lecture in *Colab* or *Binder*. This may take **a few minutes**. So, grab a cup of coffee 😊.  
+You may open the notebooks for each lecture in *Colab* or all lectures in *Binder*. This may take **a few minutes**. So, grab a cup of coffee 😊.  
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RahmanPeimankar/aml-sdu-f24.git/master)
 
