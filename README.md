@@ -22,5 +22,7 @@ Lecture 7: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 8: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f24/blob/master/Lecture%208/aml_8_model_evaluation_imbalanced_learning.ipynb)
 
+Lecture 9: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f24/blob/master/Lecture%209/aml_9_feature_selection_automl_parameters_tuning.ipynb)
+
 
 
