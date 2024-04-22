@@ -24,5 +24,7 @@ Lecture 8: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 9: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f24/blob/master/Lecture%209/aml_9_feature_selection_automl_parameters_tuning.ipynb)
 
+Lecture 10: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f24/blob/master/Lecture%2010/aml_10_dimensionality_reduction_clustring_outlier_detection.ipynb)
+
 
 
