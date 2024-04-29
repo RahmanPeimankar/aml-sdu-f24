@@ -26,5 +26,7 @@ Lecture 9: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 
 Lecture 10: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f24/blob/master/Lecture%2010/aml_10_dimensionality_reduction_clustring_outlier_detection.ipynb)
 
+Lecture 11: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/aml-sdu-f24/blob/master/Lecture%2011/aml_11_neural_networks%20.ipynb)
+
 
 
